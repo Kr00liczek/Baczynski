@@ -14,7 +14,3 @@ Każdemu z tych utworów towarzyszy dedykowany skrypt w języku JavaScript, któ
 
 ## 🗃️Dokumentacja🗃️
 Repozytorium zawiera szczegółową dokumentację projektu, opisującą jego funkcjonalność, sposób implementacji narratora oraz instrukcję użytkowania.
-
----
-
-Dziękuję za zainteresowanie projektem! 😁
